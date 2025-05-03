@@ -16,13 +16,11 @@ Disclaimer: While I call it a "fortune cookie," it's really a daily inspirationa
 5. The extension will now appear in your Chrome toolbar!
 <img width="310" alt="image" src="https://github.com/user-attachments/assets/f630b473-870b-4c4c-8b6a-45612f1e186f" />
 
-
 ## How to Use
 1. Once the extension is installed, click on the extension icon in your browser toolbar.
 2. A pop-up will appear displaying an inspirational quote.
 3. You have 12 hours to claim a cookie before the next one for good fortune. [Claim Button is WIP]
-
-
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/a0732d48-5ee7-4476-8fc7-beed4136a472" />
 
 ## Quotes Included:
 - **Napoleon Hill**: "Whatever the mind of man can conceive and believe, it can achieve."
