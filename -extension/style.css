@@ -1,14 +1,17 @@
 body {
   font-family: 'Comic Sans MS', cursive, sans-serif;
-  background: #fff2e6;
+  background: radial-gradient(circle, #f9e4b7 0%, #f3c17d 100%);
   margin: 0;
   padding: 20px;
-  width: 280px;
+  width: 260px;
   height: 180px;
   border-radius: 16px;
   box-sizing: border-box;
-  color: #4b1e0c;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  color: #3e1f00;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .container {
@@ -16,18 +19,30 @@ body {
 }
 
 h4 {
-  font-size: 18px;
-  margin: 0;
-  color: #a34b24;
+  font-size: 17px;
+  margin-bottom: 8px;
+  color: #6d3900;
 }
 
 #fortune {
   font-style: italic;
-  color: #5e3d2c;
-  margin-top: 12px;
-  font-size: 14px;
+  color: #442200;
+  margin-top: 8px;
+  font-size: 13px;
   padding: 10px;
-  background-color: #fffaf5;
-  border: 1px dashed #e0c3a6;
-  border-radius: 10px;
+  background-color: #fff8e6;
+  border: 1px dashed #dcb98f;
+  border-radius: 8px;
+  max-height: 70px;
+  overflow-y: auto;
+  line-height: 1.4;
 }
+
+#countdown {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #130f0b;
+}
+
+
+
