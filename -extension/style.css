@@ -1,18 +1,33 @@
 body {
-  font-family: 'Georgia', serif;
-  background: #fff8f0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background: #fff2e6;
   margin: 0;
   padding: 20px;
-  width: 250px;
-  height: 150px;
+  width: 280px;
+  height: 180px;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color: #4b1e0c;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
 .container {
   text-align: center;
 }
 
+h4 {
+  font-size: 18px;
+  margin: 0;
+  color: #a34b24;
+}
+
 #fortune {
   font-style: italic;
-  color: #5c4b51;
-  margin-top: 15px;
+  color: #5e3d2c;
+  margin-top: 12px;
+  font-size: 14px;
+  padding: 10px;
+  background-color: #fffaf5;
+  border: 1px dashed #e0c3a6;
+  border-radius: 10px;
 }
