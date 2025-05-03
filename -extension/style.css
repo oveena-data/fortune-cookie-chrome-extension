@@ -1,0 +1,18 @@
+body {
+  font-family: 'Georgia', serif;
+  background: #fff8f0;
+  margin: 0;
+  padding: 20px;
+  width: 250px;
+  height: 150px;
+}
+
+.container {
+  text-align: center;
+}
+
+#fortune {
+  font-style: italic;
+  color: #5c4b51;
+  margin-top: 15px;
+}
