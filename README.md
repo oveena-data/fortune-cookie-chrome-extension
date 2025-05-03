@@ -1,6 +1,6 @@
 # Fortune Cookie Chrome Extension
 
-Just a simple, fun Chrome extension that low-key delivers some daily inspirational quotes from some of my favourite, famous souls, including **📖 Napoleon Hill**, **💻 Ada Lovelace**, **🏎️ Ayrton Senna**, **💸 Warren Buffet**, **📊 Cassie Kozyrkov**, and **⭐ Tate McRae**. 
+Just a simple and fun little Chrome extension that generating some 12-hourly inspo from some of my all-time favourite legends, including **📖 Napoleon Hill**, **💻 Ada Lovelace**, **🏎️ Ayrton Senna**, **💸 Warren Buffet**, **📊 Cassie Kozyrkov**, and **⭐ Tate McRae**. 
 Disclaimer: While I call it a "fortune cookie," it's really a daily inspirational quote generator, with a dash of fortune, because being inspired is the first step to getting lucky.
 
 ### Key Features:
@@ -22,7 +22,16 @@ Disclaimer: While I call it a "fortune cookie," it's really a daily inspirationa
 3. You have 12 hours to claim a cookie before the next one for good fortune. [Claim Button is WIP]
 <img width="1114" alt="image" src="https://github.com/user-attachments/assets/a0732d48-5ee7-4476-8fc7-beed4136a472" />
 
-## Quotes Included:
+## Featured:
+<img width="120" height="100" alt="N.Hill" src="https://github.com/user-attachments/assets/a926bfdd-cd7e-45ea-877a-99be92534b58" />
+<img width="105" height="100" alt="Ada Lovelace" src="https://github.com/user-attachments/assets/741c3dfd-6c62-43a2-b561-40fe7edcb56b" />
+<img width="130" height="100" alt="A. Senna" src="https://github.com/user-attachments/assets/263eb89b-ff15-4ea9-bd65-1f9986c084e2" />
+<img width="140" height="100" alt="W. Buffet" src="https://github.com/user-attachments/assets/5c10345e-d414-4667-8434-52e7ebae5079" />
+<img width="140" height="100" alt="Cassie K." src="https://github.com/user-attachments/assets/733d342b-0942-4637-9c83-e2790920b127" />
+<img width="130" height="100" alt="Tate McRae" src="https://github.com/user-attachments/assets/9ce86d67-487f-445f-8d1f-cbcfb12a919f" />
+
+<br>
+
 - **Napoleon Hill**: "Whatever the mind of man can conceive and believe, it can achieve."
 - **Ada Lovelace**: "That brain of mine is something more than merely mortal, as time will show."
 - **Ayrton Senna**: "Being second is to be the first of the ones who lose."
