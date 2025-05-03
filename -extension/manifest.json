@@ -1,15 +1,19 @@
 {
   "manifest_version": 3,
-  "name": "Daily Bride Fortune Cookie",
-  "description": "A daily dose of sweet fortune cookies for brides 💍",
+  "name": "Fortune Cookie",
+  "description": "For a daily dose of luck and inspiration",
   "version": "1.0",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "icon.png",
-      "48": "icon.png",
-      "128": "icon.png"
+      "16": "icon.jpg",
+      "48": "icon.jpg",
+      "128": "icon.jpg"
     }
   },
   "permissions": ["storage"]
+  
 }
+
+
+
