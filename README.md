@@ -13,11 +13,15 @@ Just a simple, fun Chrome extension that low-key delivers some daily inspiration
 3. Enable **Developer mode** (toggle switch in the top right).
 4. Click on **Load unpacked** and select the folder where the extension files are located.
 5. The extension will now appear in your Chrome toolbar!
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/f630b473-870b-4c4c-8b6a-45612f1e186f" />
+
 
 ## How to Use
 1. Once the extension is installed, click on the extension icon in your browser toolbar.
 2. A pop-up will appear displaying an inspirational quote.
-3. You can click on the extension icon again to receive a new quote.
+3. You have 12 hours to claim a cookie before the next one for good fortune. [Claim Button is WIP]
+
+
 
 ## Quotes Included:
 - **Napoleon Hill**: "Whatever the mind of man can conceive and believe, it can achieve."
