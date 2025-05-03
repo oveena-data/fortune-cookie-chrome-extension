@@ -1,6 +1,7 @@
 # Fortune Cookie Chrome Extension
 
 Just a simple, fun Chrome extension that low-key delivers some daily inspirational quotes from some of my favourite, famous souls, including **📖 Napoleon Hill**, **💻 Ada Lovelace**, **🏎️ Ayrton Senna**, **💸 Warren Buffet**, **📊 Cassie Kozyrkov**, and **⭐ Tate McRae**. 
+Disclaimer: While I call it a "fortune cookie," it's really a daily inspirational quote generator, with a dash of fortune, because being inspired is the first step to getting lucky.
 
 ### Key Features:
 - **🍪Pop-up Dialogs**: Randomised inspirational quotes on each day.
