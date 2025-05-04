@@ -1,6 +1,6 @@
 # Fortune Cookie Chrome Extension
 
-Just a simple and fun little Chrome extension that generating some 12-hourly inspo from some of my all-time favourite legends, including **📖 Napoleon Hill**, **💻 Ada Lovelace**, **🏎️ Ayrton Senna**, **💸 Warren Buffet**, **📊 Cassie Kozyrkov**, and **⭐ Tate McRae**. 
+Just a simple and fun little Chrome extension generating some 12-hourly inspo from some of my all-time favourite legends, including **📖 Napoleon Hill**, **💻 Ada Lovelace**, **🏎️ Ayrton Senna**, **💸 Warren Buffet**, **📊 Cassie Kozyrkov**, and **⭐ Tate McRae**. 
 Disclaimer: While I call it a "fortune cookie," it's really a daily inspirational quote generator, with a dash of fortune, because being inspired is the first step to getting lucky.
 
 ### Key Features:
