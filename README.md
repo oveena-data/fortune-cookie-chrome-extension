@@ -20,7 +20,7 @@ Disclaimer: While I call it a "fortune cookie," it's really a daily inspirationa
 1. Once the extension is installed, click on the extension icon in your browser toolbar.
 2. A pop-up will appear displaying an inspirational quote.
 3. You have 12 hours to claim a cookie before the next one for good fortune. [Claim Button is WIP]
-<img width="1114" alt="image" src="https://github.com/user-attachments/assets/a0732d48-5ee7-4476-8fc7-beed4136a472" />
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/7ee3eeeb-e27f-4698-8074-b1f80cf3bd2a" />
 
 ## Featured:
 <img width="120" height="100" alt="N.Hill" src="https://github.com/user-attachments/assets/a926bfdd-cd7e-45ea-877a-99be92534b58" />
