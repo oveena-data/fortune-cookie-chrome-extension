@@ -13,14 +13,14 @@ Disclaimer: While I call it a "fortune cookie," it's really a daily inspirationa
 2. Open Chrome, and go to the Extensions page (`chrome://extensions/`).
 3. Enable **Developer mode** (toggle switch in the top right).
 4. Click on **Load unpacked** and select the folder where the extension files are located.
-5. The extension will now appear in your Chrome toolbar!
-<img width="310" alt="image" src="https://github.com/user-attachments/assets/f630b473-870b-4c4c-8b6a-45612f1e186f" />
+5. The extension will now appear in your Chrome toolbar! (now on version 1.1.0)
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/283170ae-c36e-41fa-a927-a9394614550f"/>
 
 ## How to Use
 1. Once the extension is installed, click on the extension icon in your browser toolbar.
 2. A pop-up will appear displaying an inspirational quote.
-3. You have 12 hours to claim a cookie before the next one for good fortune. [Claim Button is WIP]
-<img width="1114" alt="image" src="https://github.com/user-attachments/assets/7ee3eeeb-e27f-4698-8074-b1f80cf3bd2a" />
+3. You have 12 hours to claim a cookie before the next one for good fortune.
+<img width="1114" alt="image" src="https://github.com/user-attachments/assets/a07ab6e2-f754-49c6-bd65-7cc8df4d9f50" />
 
 ## Featured:
 <img width="120" height="100" alt="N.Hill" src="https://github.com/user-attachments/assets/a926bfdd-cd7e-45ea-877a-99be92534b58" />
@@ -44,5 +44,5 @@ Disclaimer: While I call it a "fortune cookie," it's really a daily inspirationa
 - **CSS**: For styling the extension.
 - **JavaScript**: For the functionality of randomising and displaying quotes.
 
-## Version 1.0
+## Version 1.1.0
 Obviously, there's still much to improve on and I would love for you to submit issues or pull requests if you have suggestions for improvements or new features, thank you! 🫶
