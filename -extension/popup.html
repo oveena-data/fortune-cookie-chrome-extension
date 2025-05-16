@@ -3,13 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
   <title>Your Fortune</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
   <div class="container">
-    <h4>Today's Fortune:</h4>
+    <i class="fa-regular fa-cookie cookie-icon"></i>
+    <h4>Today's Fortune</h4>
     <p id="fortune">Loading...</p>
+    <button id="claimBtn" type="button">Claim Cookie 🍪</button>
+    <p id="claimStatus"></p>
     <p id="countdown"></p>
   </div>
   <script src="popup.js"></script>
